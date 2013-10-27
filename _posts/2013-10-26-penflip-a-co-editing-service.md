@@ -4,7 +4,7 @@ category:
 title: "Penflip: A Co-Editing Service"
 tagline: 
 tags : [] 
-published: false
+published: true
 ---
 
 # A new post #
